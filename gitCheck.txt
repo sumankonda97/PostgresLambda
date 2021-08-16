@@ -1,2 +1,7 @@
 hhllo everyone, we are doing to get the latest code from other team members which merges their changes in your code.
 check the file in main branch
+
+1)Successfully pushed the file from local branch(develop) to main branch
+$git push origin develop
+
+2)create new branch and checkout the branch feature-gitcheck
