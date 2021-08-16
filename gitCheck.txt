@@ -5,3 +5,4 @@ check the file in main branch
 $git push origin develop
 
 2)create new branch and checkout the branch feature-gitcheck
+squash and merged to main branch (only one commit will be done)
